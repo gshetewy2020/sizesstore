@@ -1,0 +1,13 @@
+Version : v2.0
+19 Sep 2017
+
+-- 13+ New Page Layouts
+-- RTL Version
+-- Home Page Variations
+-- Video Background
+-- and more...
+
+
+Version : v1.0
+
+-- Initial release
